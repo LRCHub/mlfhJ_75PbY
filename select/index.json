@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "The Getaway",
+  "base_artist": "Red Hot Chili Peppers",
+  "createdAt": "2026-03-27T01:51:47.553005Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Down '71 (The Getaway)",
+      "artist": "Bone Thugs-n-Harmony",
+      "has_synced": false,
+      "path": "select/01_Down_'71_(The_Getaway)_Bone_Thugs-n-Harmony.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Getaway Plan",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/02_The_Getaway_Plan_Europe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "Immortal Technique",
+      "has_synced": true,
+      "path": "select/03_The_Getaway_Immortal_Technique.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "Hilary Duff",
+      "has_synced": true,
+      "path": "select/04_The_Getaway_Hilary_Duff.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "Hilary Duff",
+      "has_synced": true,
+      "path": "select/05_The_Getaway_Hilary_Duff.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Getaway (Live at Gibson Amphitheatre)",
+      "artist": "Hilary Duff",
+      "has_synced": true,
+      "path": "select/06_The_Getaway_(Live_at_Gibson_Amphitheatre)_Hilary_Duff.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "Ten Foot Pole",
+      "has_synced": false,
+      "path": "select/07_The_Getaway_Ten_Foot_Pole.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "Velveteen",
+      "has_synced": true,
+      "path": "select/08_The_Getaway_Velveteen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "TV Girl",
+      "has_synced": true,
+      "path": "select/09_The_Getaway_TV_Girl.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/10_The_Getaway_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Getaway Plan",
+      "artist": "Funeral for a Friend",
+      "has_synced": true,
+      "path": "select/11_The_Getaway_Plan_Funeral_for_a_Friend.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Getaway (Lonesome Train)",
+      "artist": "Ray Davies",
+      "has_synced": false,
+      "path": "select/12_The_Getaway_(Lonesome_Train)_Ray_Davies.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "Chris de Burgh",
+      "has_synced": true,
+      "path": "select/13_The_Getaway_Chris_de_Burgh.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "High Holy Days",
+      "has_synced": false,
+      "path": "select/14_The_Getaway_High_Holy_Days.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Getaway",
+      "artist": "Chris de Burgh",
+      "has_synced": true,
+      "path": "select/15_The_Getaway_Chris_de_Burgh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Getaway",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/pl_01_The_Getaway_Red_Hot_Chili_Peppers.txt"
+    }
+  ]
+}
