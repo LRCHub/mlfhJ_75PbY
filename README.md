@@ -1,0 +1,79 @@
+# Red Hot Chili Peppers – The Getaway
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.62] That's right you're right
+[00:23.31] We will do our thing tonight alright
+[00:27.21] Take me through the future
+[00:29.84] It's time you're fine
+[00:31.86] Just another color coded crime
+[00:35.73] Incision and a suture
+[00:38.32] You told my friend
+[00:40.23] We would get it on no matter when
+[00:44.11] A supercavitation
+[00:46.77] Let's go you show
+[00:48.62] Me something no one will ever know
+[00:52.43] A love hallucination
+[01:02.43] 
+[00:54.93] Another lonely superstar
+[00:56.88] To get away inside your car
+[00:59.15] Take it much too far
+[01:03.29] Surrender to the brave inside
+[01:05.34] A lover that another tried
+[01:07.69] Take it, too my ride
+[01:17.69] 
+[01:11.78] You don't have to keep it if it's mine
+[01:16.28] (Another lonely superstar to getaway inside your car)
+[01:20.18] Another place maybe another time
+[01:24.50] (Surrender to the brave inside a lover that another tried)
+[01:53.50] 
+[01:28.93] Complete repeat
+[01:30.77] Sitting in your car and on your street
+[01:34.76] Lost in California
+[01:37.26] Let's steal this wheel
+[01:39.21] Take a spin to find out how we feel
+[01:43.04] Just around the corner
+[01:45.62] Slow down for sound
+[01:47.67] Turn it up and no we can't be found
+[01:51.51] The body that we transcend
+[01:54.15] Asleep, you weep
+[01:56.08] Find out that the trick is never cheap
+[01:59.83] A melancholy girlfriend
+[02:11.33] 
+[02:02.39] Another lonely superstar
+[02:04.25] To get away inside your car
+[02:06.56] Take it much too far
+[02:10.41] Surrender to the brave inside
+[02:12.68] A lover that another tried
+[02:15.07] Take it, too my ride
+[02:25.07] 
+[02:19.19] You don't have to keep it if it's mine
+[02:23.51] (Another lonely superstar to getaway inside your car)
+[02:27.50] Another place maybe another time
+[02:31.92] (Surrender to the brave inside a lover that another tried)
+[03:00.92] 
+[02:44.79] That's right you're right
+[02:46.66] We will do our thing tonight, alright
+[02:50.52] Drive the constellation
+[02:53.03] It's time you're fine
+[02:55.05] Just another color coded crime
+[02:58.90] The song is fascination
+[03:10.40] 
+[03:01.31] Another lonely superstar
+[03:03.14] To get away inside your car
+[03:05.50] Take it much too far
+[03:09.54] Surrender to the brave inside
+[03:11.52] The lover that another tried
+[03:13.97] Take it, too my ride
+[03:23.97] 
+[03:18.01] A May December might not be so smart
+[03:22.53] (Another lonely superstar to getaway inside your car)
+[03:26.42] Arrivals that we wish would not depart
+[03:30.93] (Surrender to the brave inside a lover that another tried)
+[03:59.93] 
+[03:35.01] Don't be late cause you're my savior
+[03:43.14] Make it great whatever stays
+[03:51.68] Golden gate my rearranger
+[04:00.10] Hold my name inside your rays
+```
